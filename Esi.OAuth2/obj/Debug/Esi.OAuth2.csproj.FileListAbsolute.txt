@@ -1,0 +1,5 @@
+C:\Users\e.latipov\source\repos\Esi\Esi.OAuth2\bin\Debug\Esi.OAuth2.dll
+C:\Users\e.latipov\source\repos\Esi\Esi.OAuth2\bin\Debug\Esi.OAuth2.pdb
+C:\Users\e.latipov\source\repos\Esi\Esi.OAuth2\obj\Debug\Esi.OAuth2.csproj.CoreCompileInputs.cache
+C:\Users\e.latipov\source\repos\Esi\Esi.OAuth2\obj\Debug\Esi.OAuth2.dll
+C:\Users\e.latipov\source\repos\Esi\Esi.OAuth2\obj\Debug\Esi.OAuth2.pdb
